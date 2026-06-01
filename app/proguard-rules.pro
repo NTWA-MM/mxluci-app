@@ -1,0 +1,4 @@
+-keep class com.ntwa.mxluciapp.** { *; }
+-keepattributes SourceFile,LineNumberTable
+-keep public class * extends android.app.Activity
+-keep public class * extends android.app.Fragment
