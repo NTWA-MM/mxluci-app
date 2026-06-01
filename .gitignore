@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+gradlew.bat
+gradle/
+
+# Android
+.android/
+*.apk
+*.aar
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.class
+*.jar
+*.zip
+
+# Dependencies
+.classpath
+.project
+.settings/
+
+# Generated files
+gen/
+.gen/
